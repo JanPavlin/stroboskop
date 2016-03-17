@@ -6,7 +6,7 @@
 
 Na [GitHub](https://github.com) je na voljo javni repozitorij [https://github.com/lovre/stroboskop](https://github.com/lovre/stroboskop), ki vsebuje nedelujoč spletni stroboskop. V okviru domače naloge ustvarite kopijo repozitorija ter popravite in dopolnite obstoječo implementacijo spletne strani tako, da bo končna aplikacija z vsemi delujočimi funkcionalnostimi izgledala kot na sliki spodaj. 
 
-![Stroboskop](stroboskop.gif)
+![Stroboskop](https://ucilnica.fri.uni-lj.si/pluginfile.php/28001/mod_workshop/instructauthors/0/stroboskop.gif)
 
 Gumb _"Dodaj barvo"_ strani doda novo barvo, ki jo je moč kasneje spremeniti, dočim gumb _"Odstrani barve"_ odstrani vse obstoječe barve. Gumb _"Zaženi/Ustavi stroboskop"_ začne ali ustavi delovanje stroboskopa, ki zaporedoma prikazuje barve na strani. Čas prikaza posamezne barve je določen naključno iz izbranega časovnega intervala.
 
